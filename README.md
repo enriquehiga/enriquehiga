@@ -7,3 +7,16 @@
 I'm an Industrial Engineer with an MBI in Automotive Industry 4.0, passionate about digital transformation and process improvement.
 
 My journey into software development began with Microsoft Power Platform, and I'm now expanding my skills in **Go and Vue.js** to build innovative solutions for manufacturing.
+
+## 🛠️ Tech Stack
+
+
+
+### Currently Learning
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" height="32" alt="Go" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" height="32" alt="Vue.js" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="32" alt="JavaScript" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="32" alt="Git" />
+</p>
